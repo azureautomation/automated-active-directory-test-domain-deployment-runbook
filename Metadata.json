@@ -1,0 +1,20 @@
+{
+    "Author": "Automys",
+    "ContentSize": 31740,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/automated-active-directory-test-domain-deployment-runbook/master/New-AzureTestADDomain.ps1",
+    "DownloadCount": 2464,
+    "Id": "Automated-Active-Directory-825c2d66",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 474,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-3-18T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook automates the provisioning of a new AD domain/forest in Microsoft Azure for testing purposes. Given an Azure subscription and an account that has access, the runbook creates a new cloud service and virtual machine along with a new storage account and virtual network.",
+    "Title": "Automated Active Directory Test Domain Deployment Runbook",
+    "UpdatedDate": "2015-3-19T00:00:00",
+    "Url": "https://github.com/azureautomation/automated-active-directory-test-domain-deployment-runbook",
+    "UserTags": "Provisioning, Dev / Test Environments"
+}
